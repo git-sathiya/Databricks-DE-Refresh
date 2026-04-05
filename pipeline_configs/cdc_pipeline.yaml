@@ -1,0 +1,14 @@
+id: 108751e7-f716-44da-b042-54f8253f695c
+pipeline_type: WORKSPACE
+name: cdc_pipeline
+libraries:
+  - glob:
+      include: /Workspace/Users/sathiyasurya86@gmail.com/Databricks-DE-Refresh/day1_dlt_lakeflow/02_cdc_apply_changes
+schema: default
+continuous: false
+development: false
+photon: true
+channel: CURRENT
+catalog: workspace
+serverless: true
+root_path: /Workspace/Users/sathiyasurya86@gmail.com/Databricks-DE-Refresh/day1_dlt_lakeflow

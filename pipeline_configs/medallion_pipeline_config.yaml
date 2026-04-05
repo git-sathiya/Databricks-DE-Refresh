@@ -1,0 +1,14 @@
+id: ae36a212-a301-406d-a8d5-0a48e04e1355
+pipeline_type: WORKSPACE
+name: medallion_pipeline
+libraries:
+  - glob:
+      include: /Workspace/Users/sathiyasurya86@gmail.com/Databricks-DE-Refresh/day1_dlt_lakeflow/01_bronze_silver_gold_pipeline
+schema: default
+continuous: false
+development: false
+photon: true
+channel: CURRENT
+catalog: workspace
+serverless: true
+root_path: /Workspace/Users/sathiyasurya86@gmail.com/Databricks-DE-Refresh/day1_dlt_lakeflow
