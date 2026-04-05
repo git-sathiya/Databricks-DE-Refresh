@@ -139,6 +139,5 @@ Databricks-DE-Refresh/
 **Sathiya** — Data Engineer - Databricks Certified Data Engineering Professional / AI Engineering.
 Background: Python · PySpark · Apache Airflow · Pinecone (Vector DBs)
 
- **This repository is built as structured interview preparation,
- with each notebook designed to demonstrate both working code
- and production-grade engineering reasoning.**
+ **This repository is built as structured Databricks Learning to Demonstrate the understanding of Concepts with,
+  each notebook designed to demonstrate both working code and production-grade engineering reasoning.**
